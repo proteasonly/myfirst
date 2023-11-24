@@ -1,1 +1,1 @@
-this  ashok
+this  ashok  trying reset the terminal 
